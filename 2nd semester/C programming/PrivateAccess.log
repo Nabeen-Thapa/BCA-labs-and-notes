@@ -1,0 +1,55 @@
+13:35:07.607 I mainwindow_shared.cpp 409 Starting PrivateAccess version: 6.3.12W 
+13:35:07.610 I mainwindow_shared.cpp 410 Date: 25.12.2022 13:35 
+13:35:07.610 I mainwindow_shared.cpp 411 Qt library version:  5.9.6 
+13:35:07.610 I mainwindow_shared.cpp 412 OpenSSL system library: OpenSSL 1.0.2q  20 Nov 2018 
+13:35:07.610 I mainwindow_shared.cpp 413 OpenSSL version: OpenSSL 1.0.2q-fips  20 Nov 2018 
+13:35:07.610 I enclogging.cpp 223 Platform:  Windows 10 (10.0)  on  x86_64 
+13:35:07.610 I enclogging.cpp 320 Application name: PrivateAccess 
+13:35:07.610 I enclogging.cpp 321 Organisation : ENC Security BV 
+13:35:07.610 I enclogging.cpp 322 Home folder: C:/Users/Admin 
+13:35:07.610 I enclogging.cpp 323 Data location: C:/Users/Admin/AppData/Local/ENC Security BV/PrivateAccess 
+13:35:07.610 I enclogging.cpp 324 Document location: C:/Users/Admin/Documents 
+13:35:07.626 I encstickmanager.cpp 55 flash drive found on "D:/" "0401367569D26E3C3DBA288D0462F26769B60295CCAFD13A111FBAA54FE5C66DB85800000000000000000000209353D7FF147A18815581078AAA7EBB" "0x5581" "0x781" 
+13:35:07.626 D mainwindow_shared.cpp 647 mountPoint "D:/" 
+13:35:07.626 D mainwindow_shared.cpp 648 settingsPath "D:/PrivateAccess Settings" 
+13:35:07.626 D mainwindow_shared.cpp 649 settingFilePath "D:/PrivateAccess Settings/config.dat" 
+13:35:07.626 D mainwindow_shared.cpp 650 vaultPath "D:/PrivateAccess Vault" 
+13:35:07.626 I encsettings.cpp 28 Settings file name set to "D:/PrivateAccess Settings/config.dat" 
+13:35:07.626 D encsettings.cpp 43 read settings 
+13:35:07.626 I encsettings.cpp 67 no settings file found 
+13:35:07.626 I mainwindow_shared.cpp 6050 read checkUpdate 0 
+13:35:07.626 D mainwindow_shared.cpp 6644 setLanguage called with lang "" 
+13:35:07.626 D mainwindow_shared.cpp 6648 auto detecting based on "en_US" 
+13:35:07.626 D mainwindow_shared.cpp 6657 auto detect using "en_US" 
+13:35:07.626 D mainwindow_shared.cpp 677 placing lock file "D:/PrivateAccess Settings/lock" 
+13:35:07.626 D fileutils.cpp 71 FileUtils::removeFile  "C:/Users/Admin/AppData/Local/Temp/liteUpdater" 
+13:35:07.626 D fileutils.cpp 92 FileUtils::removeDir "C:/Users/Admin/AppData/Local/Temp/liteUpdater" 
+13:35:07.626 D fileutils.cpp 92 FileUtils::removeDir "C:/Users/Admin/AppData/Local/Temp/liteUpdater/encdatavaultliteupgrade.app" 
+13:35:07.626 D fileutils.cpp 92 FileUtils::removeDir "C:/Users/Admin/AppData/Local/Temp/liteUpdater/encdatavaultliteupgrade.app/Contents" 
+13:35:07.626 D fileutils.cpp 92 FileUtils::removeDir "C:/Users/Admin/AppData/Local/Temp/liteUpdater/encdatavaultliteupgrade.app/Contents/_CodeSignature" 
+13:35:07.626 D fileutils.cpp 92 FileUtils::removeDir "C:/Users/Admin/AppData/Local/Temp/liteUpdater/encdatavaultliteupgrade.app/Contents/MacOS" 
+13:35:07.642 D fileutils.cpp 92 FileUtils::removeDir "C:/Users/Admin/AppData/Local/Temp/liteUpdater/encdatavaultliteupgrade.app/Contents/Resources" 
+13:35:07.642 D fileutils.cpp 92 FileUtils::removeDir "C:/Users/Admin/AppData/Local/Temp/liteUpdater/encryptstickliteupgrade.app" 
+13:35:07.642 D fileutils.cpp 92 FileUtils::removeDir "C:/Users/Admin/AppData/Local/Temp/liteUpdater/encryptstickliteupgrade.app/Contents" 
+13:35:07.642 D fileutils.cpp 92 FileUtils::removeDir "C:/Users/Admin/AppData/Local/Temp/liteUpdater/encryptstickliteupgrade.app/Contents/_CodeSignature" 
+13:35:07.642 D fileutils.cpp 92 FileUtils::removeDir "C:/Users/Admin/AppData/Local/Temp/liteUpdater/encryptstickliteupgrade.app/Contents/MacOS" 
+13:35:07.642 D fileutils.cpp 92 FileUtils::removeDir "C:/Users/Admin/AppData/Local/Temp/liteUpdater/encryptstickliteupgrade.app/Contents/Resources" 
+13:35:07.642 D fileutils.cpp 92 FileUtils::removeDir "C:/Users/Admin/AppData/Local/Temp/liteUpdater/PrivateAccess_mac.app" 
+13:35:07.642 D fileutils.cpp 92 FileUtils::removeDir "C:/Users/Admin/AppData/Local/Temp/liteUpdater/PrivateAccess_mac.app/Contents" 
+13:35:07.642 D fileutils.cpp 92 FileUtils::removeDir "C:/Users/Admin/AppData/Local/Temp/liteUpdater/PrivateAccess_mac.app/Contents/_CodeSignature" 
+13:35:07.642 D fileutils.cpp 92 FileUtils::removeDir "C:/Users/Admin/AppData/Local/Temp/liteUpdater/PrivateAccess_mac.app/Contents/MacOS" 
+13:35:07.642 D fileutils.cpp 92 FileUtils::removeDir "C:/Users/Admin/AppData/Local/Temp/liteUpdater/PrivateAccess_mac.app/Contents/Resources" 
+13:35:07.657 I mainwindow_shared.cpp 3498 Update interval 0 
+13:35:07.657 I mainwindow_shared.cpp 3499 Last check for updates was on "" 
+13:35:07.657 I mainwindow_shared.cpp 3500 Days since last check for updates 0 
+13:35:07.657 I mainwindow_shared.cpp 3523 Checking for updates 
+13:35:09.008 I mainwindow_shared.cpp 3539 No update available 
+13:35:09.008 I mainwindow_shared.cpp 44 ShowCheckBackupMessage is :  1 
+13:35:09.008 I mainwindow_shared.cpp 49 Days since last backup is:  14 
+13:35:21.276 I mainwindow_shared.cpp 724 backupPath  "C:/Users/Admin/AppData/Local/ENC Security BV/PrivateAccess/Backup" 
+13:35:21.276 I mainwindow_shared.cpp 725 oldBackupPath  "C:/Users/Admin/AppData/Local/ENC Security Systems BV/SanDiskSecureAccess/Backup" 
+13:35:24.619 I mainwindow_shared.cpp 330 new created vault, create enckey file 
+13:35:47.456 D fileutils.cpp 71 FileUtils::removeFile  "D:/PrivateAccess Settings" 
+13:35:47.456 D fileutils.cpp 92 FileUtils::removeDir "D:/PrivateAccess Settings" 
+13:35:47.472 D mainwindow_shared.cpp 218 Application shutdown 
+13:35:47.472 D mainwindow_shared.cpp 221 cleanup after abort 
